@@ -23,4 +23,10 @@
 /dist/
 /nbdist/
 /.nb-gradle/
-/target/
+ly-api-gateway/target/
+ly-item/ly-item-interface/target/
+ly-item/ly-item-service/target/
+ly-item/target/
+ly-registry/target/
+ly-upload/target/
+lycommon/target/
